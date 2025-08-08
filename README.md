@@ -14,7 +14,7 @@
 
 </div>
 
-![头像](image/头像.jpg)
+![头像](http://q.qlogo.cn/headimg_dl?dst_uin=&spec=640&img_type=jpg)
 
 ![Visitor Count](https://profile-counter.glitch.me/Mq-b/count.svg)
 
