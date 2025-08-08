@@ -1,21 +1,61 @@
-<div id="title" align=center>
+# 🌟 个人介绍 | 二次元版 🌟
 
-![Modern C++ template][github-sub-title:img]
+## 👋 关于我
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BS172975746&show_icons=true&theme=tokyonight)](https://b23.tv/iEJTnPp)
+你好呀！我是**星尘**，一个沉迷二次元世界的代码魔法师🪄，同时也是一名前端开发工程师。
 
-[![知乎](https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-mq%E7%99%BD-yello)](https://www.zhihu.com/people/o4ze4r)
-[![youtube](https://img.shields.io/badge/video-YouTube-red)](https://www.youtube.com/channel/UCey35Do4RGewqr-6EiaCJrg)
+白天写代码构建虚拟世界，晚上追番补漫探索平行宇宙。对ACGN文化有着超乎寻常的热爱，尤其喜欢机甲、奇幻和治愈系题材。我的人生信条是：**代码改变世界，动漫治愈心灵**。
 
-[![modern cpp](https://img.shields.io/badge/code-Modern%20C++-blue)](https://learn.microsoft.com/zh-cn/cpp/cpp/welcome-back-to-cpp-modern-cpp) 
-![](https://img.shields.io/badge/讨厌-学习-yellow) 
-![](https://img.shields.io/badge/性格-开朗-red) 
-![](https://img.shields.io/badge/爱好-二次元-red)
+![二次元风格的开发者插画](https://picsum.photos/id/177/600/300)
+*"在0和1的世界里，也能编织出奇幻的梦想"*
 
-</div>
+## 🛠️ 技能栈 & 本命角色
 
-![头像](http://q.qlogo.cn/headimg_dl?dst_uin=172975746&spec=640&img_type=jpg)
+- **编程语言**：JavaScript(祢豆子级灵活)、TypeScript(阿尔敏级缜密)、Python(皮卡丘级可爱)
+- **技术框架**：React(悟空级万能)、Vue(柯南级细致)、Node.js( saitama级强大)
+- **设计工具**：Figma(薇尔莉特级优雅)、Photoshop(狂三时崎级多变)
+- **本命番**：《攻壳机动队》、《命运石之门》、《新世纪福音战士》
 
-![Visitor Count](https://profile-counter.glitch.me/Mq-b/count.svg)
+## 🎮 二次元经历
 
-[github-sub-title:img]: https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=Bs缘空
+### 🏆 同人游戏开发 | 2023年
+- 独立开发了一款《原神》同人解谜小游戏
+- 使用Phaser 3引擎实现，包含5个原创关卡
+- 在本地漫展获得"最佳创意奖"
+
+![同人游戏截图示例](https://picsum.photos/id/237/600/300)
+*同人游戏中的场景设计*
+
+### 📝 动漫主题网站 | 2022年
+- 设计并开发了一个动漫台词数据库
+- 实现了台词搜索、角色关联和弹幕评论功能
+- 累计收录1000+经典动漫台词
+
+## 📺 我的追番清单
+
+- **正在追**：《某科学的超电磁炮 第三季》、《赛博朋克：边缘行者》
+- **已二刷**：《进击的巨人》全季、《辉夜大小姐想让我告白》
+- **补番计划**：《链锯人》、《灵能百分百》
+
+![动漫角色合集风格图片](https://picsum.photos/id/24/600/300)
+*我的二次元世界群像*
+
+## 🎯 兴趣爱好
+
+- 收集动漫手办(目前有23个，最爱明日香)
+- 尝试cosplay(擅长还原技术宅角色)
+- 参与线下漫展和同人创作交流会
+- 用代码实现动漫中的经典场景
+
+## 📫 次元连接方式
+
+- GitHub：[github.com/stardust-dev](https://github.com) (会放一些二次元相关的小项目)
+- 微博：@星尘的代码结界 (日常吐槽动漫和技术)
+- 邮箱：stardust@anime.dev (欢迎讨论技术或安利新番)
+- B站：星尘Code (偶尔发一些技术+动漫的混剪视频)
+
+---
+
+"这个世界上所有的相遇，都是久别重逢" —— 《你的名字。》
+
+期待在二次元或三次元的世界与你相遇！✨
